@@ -6,9 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=B.S.+Computer+Science+Student;Software+Engineer+in+Training;Full-stack+Explorer;Class+of+2025+//+Building+Cool+Stuff" />
 </p>
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/rui-ise?template=terminal&base=header,activity,community,repositories&base.indepth=true&config.timezone=Asia/Tokyo" alt="Metrics" />
-</p>
+
 ---
 
 ### 🛰️ Core Protocols (Languages)
@@ -51,8 +49,4 @@
   <a href="https://discord.com/users/.mannii">
     <img src="https://img.shields.io/badge/Discord-111?style=for-the-badge&logo=discord&logoColor=9b59ff" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update-Snake/github-contribution-grid-snake.svg" alt="Snake" />
 </p>
