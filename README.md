@@ -40,10 +40,10 @@
 <h3 align="center" style="color:#9b59ff; font-weight:400;">stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rui-ise&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000" />
+  <img src="https://streak-stats.demolab.com/?user=rui-ise&theme=tokyonight&hide_border=true&background=00000000" />
 </p>
 
 <p align="center" style="color:#444;">────────────────────────────</p>
@@ -51,7 +51,7 @@
 <h3 align="center" style="color:#9b59ff; font-weight:400;">contact</h3>
 
 <p align="center">
-  <a href="https://discord.com/users/YOUR_DISCORD_ID">
+  <a href="https://discord.com/users/.mannii">
     <img src="https://img.shields.io/badge/Discord-111?style=for-the-badge&logo=discord&logoColor=9b59ff" />
   </a>
 </p>
