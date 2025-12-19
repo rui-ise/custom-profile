@@ -7,9 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rui-ise&theme=tokyonight&no-bg=true&margin-w=15&column=5" alt="trophies" />
+  <img src="https://metrics.lecoq.io/rui-ise?template=terminal&base=header,activity,community,repositories&base.indepth=true&config.timezone=Asia/Tokyo" alt="Metrics" />
 </p>
-
 ---
 
 ### 🛰️ Core Protocols (Languages)
